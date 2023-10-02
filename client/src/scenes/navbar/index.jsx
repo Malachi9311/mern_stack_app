@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          InstaGam Clone
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
